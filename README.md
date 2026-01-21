@@ -1,1 +1,0 @@
-# GenAI-IDFC-Invoice-data-extraxtion-hackathon

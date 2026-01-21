@@ -5581,5 +5581,159 @@
         }
       }
     }
+  },
+  {
+    "90019329217_OTHERS_v1_pg1.png": {
+      "doc_id": "437",
+      "fields": {
+        "dealer_name": "सिद्धनाथ ॲग्रो एजन्सी",
+        "model_name": "Target 630 Diepr",
+        "horse_power": 29,
+        "asset_cost": 600000,
+        "signature": {
+          "present": false,
+          "bbox": null
+        },
+        "stamp": {
+          "present": true,
+          "bbox": [
+            788,
+            820,
+            900,
+            900
+          ]
+        }
+      }
+    }
+  },
+  {
+    "172561841_pg1.png": {
+      "doc_id": null,
+      "fields": {
+        "dealer_name": null,
+        "model_name": "DI-745 III HDM+4WD",
+        "horse_power": 50,
+        "asset_cost": 911769.0,
+        "signature": {
+          "present": false,
+          "bbox": null
+        },
+        "stamp": {
+          "present": true,
+          "bbox": [
+            698,
+            740,
+            890,
+            870
+          ]
+        }
+      }
+    }
+  },
+  {
+    "172685774_2_pg31.png": {
+      "doc_id": null,
+      "fields": {
+        "dealer_name": "JAY RANCHHOD TRACTOR",
+        "model_name": "Powerforce - 434 D5 plus",
+        "horse_power": 39,
+        "asset_cost": 722800,
+        "signature": {
+          "present": true,
+          "bbox": [
+            795,
+            800,
+            835,
+            830
+          ]
+        },
+        "stamp": {
+          "present": true,
+          "bbox": [
+            768,
+            768,
+            860,
+            860
+          ]
+        }
+      }
+    }
+  },
+  {
+    "173779463_1_pg5.png": {
+      "doc_id": null,
+      "fields": {
+        "dealer_name": "ISHWAR MOTORS",
+        "model_name": "D.I.N.I.T.R.A.C. P.P. 43.I.E.I.",
+        "horse_power": 47,
+        "asset_cost": 600000,
+        "signature": {
+          "present": true,
+          "bbox": [
+            249,
+            629,
+            320,
+            668
+          ]
+        },
+        "stamp": {
+          "present": true,
+          "bbox": [
+            219,
+            579,
+            349,
+            690
+          ]
+        }
+      }
+    }
+  },
+  {
+    "90019757162_OTHERS_v1_pg1.png": {
+      "doc_id": null,
+      "fields": {
+        "dealer_name": "JAGALUR MAHALINGAPPA ENTERPRISES",
+        "model_name": "TAFE 30 DI Orchard Plus",
+        "horse_power": 30,
+        "asset_cost": 700000.0,
+        "signature": {
+          "present": true,
+          "bbox": [
+            799,
+            829,
+            870,
+            860
+          ]
+        },
+        "stamp": {
+          "present": false,
+          "bbox": null
+        }
+      }
+    }
+  },
+  {
+    "90018881950_1_v1_pg1.png": {
+      "doc_id": "684",
+      "fields": {
+        "dealer_name": "Basava Equipments",
+        "model_name": "52108",
+        "horse_power": 50,
+        "asset_cost": 980000,
+        "signature": {
+          "present": false,
+          "bbox": null
+        },
+        "stamp": {
+          "present": true,
+          "bbox": [
+            805,
+            805,
+            920,
+            920
+          ]
+        }
+      }
+    }
   }
 ]

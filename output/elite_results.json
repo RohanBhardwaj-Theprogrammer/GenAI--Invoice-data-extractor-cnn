@@ -1,0 +1,176 @@
+{
+  "system": "Elite Document AI",
+  "version": "2.1",
+  "total_documents": 3,
+  "results": [
+    {
+      "doc_id": "90019012095_175379096_2_pg9",
+      "fields": {
+        "dealer_name": "Unknown Dealer",
+        "model_name": "Unknown Model",
+        "horse_power": 44,
+        "asset_cost": 0,
+        "signature": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "stamp": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "confidence": 0.1,
+      "processing_time_sec": 0.3319,
+      "cost_estimate_usd": 0.0001,
+      "metadata": {
+        "document_type": "unknown",
+        "quality_score": 0.7999999999999999,
+        "extraction_mode": "easyocr",
+        "languages": [
+          "english",
+          "hindi"
+        ],
+        "text_length": 0,
+        "vlm_validated": true,
+        "field_sources": {
+          "dealer": "ensemble",
+          "model": "ensemble",
+          "horse_power": "ensemble",
+          "asset_cost": "ensemble"
+        },
+        "ground_truth_match": false,
+        "ground_truth_scores": {
+          "dealer_name": 0.0,
+          "model_name": 0.0,
+          "horse_power": 0.0,
+          "asset_cost": 0.0,
+          "signature": 0.0,
+          "stamp": 0.0
+        }
+      }
+    },
+    {
+      "doc_id": "90018953788_Android_417_T_1_1_90018953788_pg1",
+      "fields": {
+        "dealer_name": "Unknown Dealer",
+        "model_name": "Unknown Model",
+        "horse_power": 47,
+        "asset_cost": 890000,
+        "signature": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "stamp": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "confidence": 0.1,
+      "processing_time_sec": 0.5734,
+      "cost_estimate_usd": 0.000258,
+      "metadata": {
+        "document_type": "unknown",
+        "quality_score": 0.5,
+        "extraction_mode": "easyocr",
+        "languages": [
+          "english",
+          "hindi"
+        ],
+        "text_length": 0,
+        "vlm_validated": true,
+        "field_sources": {
+          "dealer": "ensemble",
+          "model": "ensemble",
+          "horse_power": "ensemble",
+          "asset_cost": "ensemble"
+        },
+        "ground_truth_match": false,
+        "ground_truth_scores": {
+          "dealer_name": 0.0,
+          "model_name": 0.0,
+          "horse_power": 0.0,
+          "asset_cost": 0.0,
+          "signature": 0.0,
+          "stamp": 0.0
+        }
+      }
+    },
+    {
+      "doc_id": "90019481745_OTHERS_v2_pg1",
+      "fields": {
+        "dealer_name": "Unknown Dealer",
+        "model_name": "Unknown Model",
+        "horse_power": 47,
+        "asset_cost": 830000,
+        "signature": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "stamp": {
+          "present": false,
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "confidence": 0.1,
+      "processing_time_sec": 0.1992,
+      "cost_estimate_usd": 6e-05,
+      "metadata": {
+        "document_type": "unknown",
+        "quality_score": 0.7999999999999999,
+        "extraction_mode": "easyocr",
+        "languages": [
+          "english",
+          "hindi"
+        ],
+        "text_length": 0,
+        "vlm_validated": true,
+        "field_sources": {
+          "dealer": "ensemble",
+          "model": "ensemble",
+          "horse_power": "ensemble",
+          "asset_cost": "ensemble"
+        },
+        "ground_truth_match": false,
+        "ground_truth_scores": {
+          "dealer_name": 0.0,
+          "model_name": 0.0,
+          "horse_power": 0.0,
+          "asset_cost": 0.0,
+          "signature": 1.0,
+          "stamp": 0.0
+        }
+      }
+    }
+  ],
+  "timestamp": 1768986330.3542404
+}
